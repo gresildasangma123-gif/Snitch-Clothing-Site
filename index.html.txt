@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Snitch Clothing</title>
+</head>
+<body>
+    <h1>Welcome to Babe Snitch Clothing</h1>
+</body>
+</html>
